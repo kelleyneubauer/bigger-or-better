@@ -7,7 +7,7 @@
 
  Text-based adventure game using OOP design in C++
 
- ![biggerOrBetter_title](/img/biggerOrBetter_title.png)
+ <img src="/img/biggerOrBetter_title.png" width="600">
 
 ---
 
@@ -29,4 +29,4 @@
 - Start with a paperclip and continue trading until you have a bike
 - Make it home for dinner at 6:00 PM!
 
- ![biggerOrBetter](/img/biggerOrBetter.gif)
+ <img src="/img/biggerOrBetter.gif" width="600">
