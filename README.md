@@ -1,13 +1,12 @@
 # BIGGER OR BETTER
 
-**Kelley Neubauer**\
-*Fall 2019*
-
----
+### Kelley Neubauer
 
  Text-based adventure game using OOP design in C++
 
  <img src="/img/biggerOrBetter_title.png" width="600">
+ 
+ [Play on repl.it!](https://repl.it/@kelleyneubauer/bigger-or-better)
 
 ---
 
